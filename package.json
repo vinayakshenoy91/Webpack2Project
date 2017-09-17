@@ -1,0 +1,31 @@
+{
+	"name": "webpack2project",
+	"version": "1.0.0",
+	"description": "This project is on Webpack and its configuration",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vinayakshenoy91/Webpack2Project.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vinayakshenoy91/Webpack2Project/issues"
+	},
+	"homepage": "https://github.com/vinayakshenoy91/Webpack2Project#readme",
+	"devDependencies": {
+		"babel-core": "^6.26.0",
+		"babel-loader": "^7.1.2",
+		"babel-preset-env": "^1.6.0",
+		"css-loader": "^0.28.7",
+		"extract-text-webpack-plugin": "^3.0.0",
+		"file-loader": "^0.11.2",
+		"image-webpack-loader": "^3.4.2",
+		"style-loader": "^0.18.2",
+		"url-loader": "^0.5.9",
+		"webpack": "^3.6.0"
+	}
+}
